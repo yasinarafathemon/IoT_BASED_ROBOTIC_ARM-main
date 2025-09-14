@@ -1,7 +1,5 @@
 # 🤖 IOT_BASED_ROBOTIC_ARM
 
-![WhatsApp Image 2025-02-07 at 08 25 51_d32b072f](https://github.com/user-attachments/assets/4d3cea2c-ab10-4084-9d26-85b06a7d9729)
-
 *A Brain-Controlled Interface (BCI) based robotic arm using ESP8266 & PCA9685.*
 
 ## 🚀 **Project Overview**
@@ -95,14 +93,6 @@ Users can control the arm using the web interface:
 ---
 
 
-https://github.com/user-attachments/assets/a5e21342-d928-4119-9817-23136feeff85
-
-
 ## 📜 **License**
 This project is **open-source** under the **MIT License**.NB: Wihtout my permission no one can change or use it.
-
-👨‍💻 **Developed by:** [Nishat Vasker]  
-📧 **Contact:** nishatvasker@gmail.com  
-
-
 ---
